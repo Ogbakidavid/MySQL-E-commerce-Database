@@ -1,3 +1,4 @@
+![ChatGPT Image May 14, 2025, 09_30_46 PM](https://github.com/user-attachments/assets/fd79477f-b875-446c-a7ef-84a1dd11f5e1)
 # E-Commerce Database
 
 This project defines the schema and initial data for an e-commerce database. The database is designed to support an online store with products, brands, categories, variations, and attributes.
